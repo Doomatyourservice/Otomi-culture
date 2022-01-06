@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Otomi Culture </title>
-  </head>
   <body style="background-color:papayawhip;">
 	<center>
 	<p> Welcome to Mia's Webpage </p>
